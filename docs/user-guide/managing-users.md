@@ -8,7 +8,7 @@
 
 ## Changing User Settings
 
-<video style="max-width: 320px;" autoplay controls loop muted playsinline>
+<video style="max-width: 320px;" autoplay controls loop muted playsinline alt="Video of changing user settings such as name, email, language, & timezone" >
   <source src="../../assets/videos/user_settings.mp4" type="video/mp4">
 </video>
 
